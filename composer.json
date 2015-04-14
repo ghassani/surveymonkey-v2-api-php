@@ -1,0 +1,13 @@
+{
+    "name": "spliced/surveymonkey-client-php",
+    "authors": [
+        {
+            "name": "Gassan Idriss",
+            "email": "ghassani@splicedmedia.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "guzzle/http": "~3.1"
+    }
+}
