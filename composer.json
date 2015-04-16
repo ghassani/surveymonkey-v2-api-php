@@ -9,5 +9,10 @@
     "require": {
         "php": ">=5.3",
         "guzzle/http": "~3.1"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Spliced\\\SurveyMonkey\\" : "src/"
+        }
     }
 }
