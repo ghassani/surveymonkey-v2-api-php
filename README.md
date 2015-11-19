@@ -1,1 +1,1 @@
-Server Monkey API Wrapper for PHP
+Survey Monkey API Wrapper for PHP
